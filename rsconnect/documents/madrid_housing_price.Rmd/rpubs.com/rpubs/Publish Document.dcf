@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1002515/a81a5de02f864c9c8d2f34675484cd36
+bundleId: https://api.rpubs.com/api/v1/document/1002515/a81a5de02f864c9c8d2f34675484cd36
+url: http://rpubs.com/l_tresya/1002515
+when: 1676410834.06767
+lastSyncTime: 1676410834.06769
